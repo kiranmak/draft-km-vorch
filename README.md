@@ -2,9 +2,9 @@
 
 This is the working area for the individual Internet-Draft, "Requirements and Scenarios for Industry Internet Addressing".
 
-* [Editor's Copy](https://kiranmak.github.io/draft-km-industry-net/#go.draft-km-industrial-internet-requirements.html)
-* [Individual Draft](https://datatracker.ietf.org/doc/html/draft-km-industrial-internet-requirements)
-* [Compare Editor's Copy to Individual Draft](https://kiranmak.github.io/draft-km-industry-net/#go.draft-km-industrial-internet-requirements.diff)
+* [Editor's Copy](https://kiranmak.github.io/draft-km-vorch/#go.draft-km-virt-orchestra-research-challenges.html)
+* [Individual Draft](https://datatracker.ietf.org/doc/html/draft-km-vorch)
+* [Compare Editor's Copy to Individual Draft](https://kiranmak.github.io/draft-km-vorch/#go.draft-km-vorch.diff)
 
 ## Building the Draft
 
@@ -21,4 +21,4 @@ This requires that you have the necessary software installed.  See
 ## Contributing
 
 See the
-[guidelines for contributions](https://github.com/kiranmak/draft-km-industry-net/blob/master/CONTRIBUTING.md).
+[guidelines for contributions](https://github.com/kiranmak/draft-km-vorch/blob/master/CONTRIBUTING.md).
